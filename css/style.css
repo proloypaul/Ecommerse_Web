@@ -1,0 +1,23 @@
+.nav_css_clr{
+    background-color: whitesmoke;
+    font-weight: bold;
+    font-size: 20px;
+}
+.bg_css_clr{
+    background-color: #f6abb6;
+    color: #251e3e;
+}
+.bg_css_clr button, .bg_css_clr_2 button{
+    background: #251e3e;
+    padding: 5px 10px;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+}
+.bg_css_clr h1, .bg_css_clr_2 h1{
+    color: white;
+}
+
+.bg_css_clr_2 {
+    background:#65c3ba;
+}

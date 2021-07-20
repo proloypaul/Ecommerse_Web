@@ -1,7 +1,15 @@
+/* Google font */
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@500&family=Qahiri&display=swap');
+
+
+body{
+    font-family: 'Josefin Sans', sans-serif;
+}
+
 .nav_css_clr{
-    background-color: whitesmoke;
+    background-color: #fceae8;
     font-weight: bold;
-    font-size: 20px;
+    font-size: 20px;  
 }
 .bg_css_clr{
     background-color: #f6abb6;
@@ -9,8 +17,9 @@
 }
 .bg_css_clr button, .bg_css_clr_2 button{
     background: #251e3e;
-    padding: 5px 10px;
-    border-radius: 5px;
+    padding: 10px 20px;
+    border: 0;
+    border-radius: 10px;
     color: white;
     font-weight: bold;
 }
@@ -20,4 +29,20 @@
 
 .bg_css_clr_2 {
     background:#65c3ba;
+}
+.btn_css_cls button{
+    background: #251e3e;
+    padding: 10px 10px;
+    border: 0;
+    border-radius: 10px;
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+}
+.btn_css_cls h5{
+    color: crimson;
+    font-weight: bold;
+}
+.text_css_clr{
+    color: white;
 }
